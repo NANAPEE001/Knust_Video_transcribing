@@ -15,8 +15,8 @@ This project automates the process of converting spoken audio from videos into t
 ##  Technologies Used
 | [OpenAI Whisper](https://github.com/openai/whisper) | Speech recognition (transcribe audio to text) |
 | [Python](https://www.python.org/) | Command-line interface and scripting |
-| [Google Colab](https://colab.research.google.com/) | Optional cloud-based transcription |
-| ChatGPT / Claude / Notion AI | Summarizing the transcript |
+| [Google Colab](https://colab.research.google.com/) | 
+|  Claude | Summarizing the transcript |
 
 
 
